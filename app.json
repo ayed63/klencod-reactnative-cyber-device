@@ -1,0 +1,5 @@
+{
+  "name": "CyberDevice",
+  "displayName": "cyber device",
+  "android": {"packageName": "com.cyber.myapp"}
+}
